@@ -4,7 +4,12 @@ The objective for this project was to optimize Cameron Pittman's portfolio page 
 
 To get started, check out the repository and inspect the code.
 
-### Getting started
+### PageSpeed Insight Scores - 
+index.html        95/100 97/100
+project 2048      93/100 94/100
+project webperf   94/100 96/100
+project mobile    95/100 96/100
+
 
 #### Part 1: Optimize PageSpeed Insights score for index.html
 
