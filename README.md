@@ -2,7 +2,7 @@
 
 The objective for this project was to optimize Cameron Pittman's portfolio page for speed. The strategy was to optimize the critical rendering path, making the page render as quickly as possible, using techniques you've picked up in the Website Performance Optimization.
 
-To get started, click [here](https://witchfather.github.io/Udacity-front-end-Website-optimization/)
+To get started, click [here](https://witchfather.github.io/Udacity-front-end-Website-optimization/) or download as zip, extract and open index.html in the browser
 
 ### PageSpeed Insight Scores - 
 * index.html        95/ 97
